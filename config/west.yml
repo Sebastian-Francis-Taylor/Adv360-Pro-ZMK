@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: refil
       url-base: https://github.com/refil
-    - name: zmk-locales
+    - name: joelspadin
       url-base: https://github.com/joelspadin
   projects:
     - name: zmk
@@ -12,7 +12,7 @@ manifest:
       revision: adv360-z3.5-2
       import: app/west.yml
     - name: zmk-locales
-      url-base: https://github.com/joelspadin
+      remote: joelspadin
       revision: main 
   self:
     path: config
