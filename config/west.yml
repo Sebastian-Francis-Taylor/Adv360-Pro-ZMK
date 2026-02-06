@@ -4,14 +4,14 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: refil
       url-base: https://github.com/refil
-    - name: joelspadin
+    - name: zmk-locales
       url-base: https://github.com/joelspadin
   projects:
     - name: zmk
       remote: refil
       revision: adv360-z3.5-2
       import: app/west.yml
-    - name: joelspadin
+    - name: zmk-locales
       url-base: https://github.com/joelspadin
       revision: main 
   self:
