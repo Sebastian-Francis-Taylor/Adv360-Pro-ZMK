@@ -32,7 +32,7 @@
         &kp EQUAL &kp N1        &kp N2         &kp N3   &kp N4    &kp N5    &tog 1                                                          &mo 3 &kp N6   &kp N7   &kp N8   &kp N9    &kp N0   &kp MINUS
         &kp TAB   &kp BSLH      &kp COMMA      &kp DOT  &kp DA_P  &kp DA_Y  &none                                                           &none &kp DA_F &kp DA_G &kp DA_C &kp DA_R  &kp DA_L &kp BSLH
         &kp ESC   &kp A         &kp DA_O       &kp DA_E &kp DA_U  &kp DA_I  &none           &kp LCTRL &kp LGUI &kp LGUI  &kp RCTRL          &none &kp DA_D &kp DA_H &kp DA_T &kp DA_N  &kp DA_S &kp DA_MINUS
-        &kp LSHFT &kp DA_COLON  &kp DA_Q       &kp DA_J &kp DA_k  &kp DA_X                            &kp LALT &kp LALT                           &kp DA_B &kp DA_M &kp DA_W &kp DA_V  &kp DA_Z &kp RSHFT
+        &kp LSHFT &kp DA_COLON  &kp DA_Q       &kp DA_J &kp DA_K  &kp DA_X                            &kp LALT &kp LALT                           &kp DA_B &kp DA_M &kp DA_W &kp DA_V  &kp DA_Z &kp RSHFT
         &mo 2     &kp DA_A_RING &kp DA_O_SLASH &kp LEFT &kp RIGHT                 &kp SPACE &kp DEL   &kp END  &kp PG_DN &kp ENTER &kp BSPC                &kp DOWN &kp UP   &kp DA_AE &kp RBKT &mo 2
       >;
     };
@@ -52,8 +52,8 @@
         &kp F1 &kp F2 &kp F3 &kp F4           &kp F5      &kp F6  &tog 1                                                  &mo 3 &kp F7 &kp F8         &kp F9           &kp F10         &kp F11 &kp F12
         &trans &trans &trans &kp DA_LBKT      &kp DA_RBKT &trans  &none                                                   &none &trans &kp DA_DOLLAR  &kp DA_PIPE      &kp DA_TILDE    &trans  &trans
         &trans &trans &trans &kp DA_LBRC      &kp DA_RBRC &trans  &none               &trans &trans &trans &trans         &none &trans &kp DA_AT_SIGN &kp DA_BACKSLASH &kp DA_QUESTION &trans  &trans
-        &trans &trans &trans &kp DA_LESS_THAN &kp DA_GREATER_THAN &trans                &trans &trans                      &trans &trans         &trans           &trans          &trans  &trans
-        &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans               &trans         &trans           &trans          &trans  &trans
+        &trans &trans &trans &kp DA_LESS_THAN &kp DA_GREATER_THAN &trans                &trans &trans                           &trans &trans         &trans           &trans          &trans  &trans
+        &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans                    &trans         &trans           &trans          &trans  &trans
       >;
     };
     mod {
