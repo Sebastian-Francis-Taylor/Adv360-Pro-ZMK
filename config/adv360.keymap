@@ -50,7 +50,7 @@
       display-name = "Fn";
       bindings = <
         &kp F1       &kp F2       &kp F3      &kp F4      &kp F5       &kp F6    &tog 1                                                     &mo 3 &kp F7        &kp F8           &kp F9              &kp F10       &kp F11     &kp F12
-        &trans       &kp DA_DQT   &kp DA_SQT  &kp DA_LBKT &kp DA_RBKT  &trans    &none                                                      &none &kp DA_GRAVE  &kp DA_COLON     &kp DA_SCOLON       &kp DA_EQUAL  &kp DA_PIPE &trans
+        &trans       &kp DA_DQT   &kp DA_SQT  &kp DA_LBKT &kp DA_RBKT  &trans    &none                                                      &none &kp DA_GRAVE  &kp DA_COLON     &kp DA_SEMI         &kp DA_EQUAL  &kp DA_PIPE &trans
         &trans       &kp DA_TILDE &kp DA_LPAR &kp DA_RPAR &kp DA_LT    &kp DA_GT &none                     &trans &trans &trans &trans      &none &kp DA_DOLLAR &kp DA_POUND     &kp DA_EXCL         &kp DA_AT     &kp DA_BSLH &trans
         &kp DA_CARET &kp DA_UNDER &kp DA_LBRC &kp DA_RBRC &kp DA_PRCNT &kp DA_QMARK                               &trans &trans                   &kp DA_FSLH   &kp DA_AMPS      &kp DA_ASTRK        &kp DA_DOLLAR &kp DA_BSLH &trans
         &trans       &trans       &trans      &trans      &kp DA_PLUS                               &trans &trans &trans &trans &trans &trans                   &trans           &trans              &trans        &trans      &trans
